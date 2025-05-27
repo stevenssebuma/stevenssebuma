@@ -6,7 +6,7 @@ I'm Steven Ssebuma, a student at Brigham Young University–Idaho pursuing a pas
 ## 📘 About Me
 
 - 🎓 I'm currently studying Software Development at BYU–Idaho
-- 🧠 I'm learning more about web development, using the advanced technologies and softares such REACT, NODE JS, and intragration of Databases. I like full-stack development, Data Science, Artificial Intelligence, and machine learning.
+- 🧠 I'm learning more about web development, using the advanced technologies and softwares such REACT, NODE JS, and interagration of Databases. I like full-stack development, Data Science, Artificial Intelligence, and machine learning.
 - 🎯 My goals are to build impactful software, contribute to open source, and grow as a developer
 - 💬 Ask me about programming, projects I’m working on, or anything tech-related!
 
