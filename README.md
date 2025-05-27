@@ -32,6 +32,12 @@ Here are a few projects I’ve worked on:
 - 🔗 **Weather App:** Repo link: https://github.com/stevenssebuma/my-app – The weather App helps you to kick off the day safe as weather forecast is in your hands just a click away on your phone.
 - 🔗 **Chamber of Commercce** Repo link: https://github.com/stevenssebuma/wdd231/tree/main/chamber – The chamber of commercce brings a tangible glare of businnesses and enterprises to the world.
 
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+
+
 ## 🤝 Let's Connect!
 
 - 💼 **LinkedIn** https://www.linkedin.com/in/steven-ssebuma-b58471268 [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]()
