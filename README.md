@@ -1,3 +1,4 @@
+![SSEBUMA](https://github.com/user-attachments/assets/6cd34996-86d2-48d2-a6a8-b4c6bc9d0821)
 
 Hello, GitHub! 👋
 
