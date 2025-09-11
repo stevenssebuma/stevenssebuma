@@ -13,10 +13,10 @@ I'm Steven Ssebuma, a student at Brigham Young University–Idaho pursuing a pas
 
 ## 🛠️ Technologies and Tools
 
-- **Languages:** Python, JavaScript, HTML, CSS, C#
+- **Languages:** Python, JavaScript, TypeScript, HTML, CSS, C#, Flutter
 - **Frameworks/Libraries:** React, Node.js, Express 
 - **Tools & Platforms:** Git, GitHub, VS Code, Linux, Figma, Postman
-- **Databases:** MySQL, MongoDB, PgAdmin
+- **Databases:** MySQL, MongoDB, PgAdmin, Firebase, Supabase
 
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
