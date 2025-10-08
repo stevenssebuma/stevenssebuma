@@ -42,6 +42,7 @@ Here are a few projects I’ve worked on:
 ## 🤝 Let's Connect!
 
 - 💼 **LinkedIn** https://www.linkedin.com/in/steven-ssebuma-b58471268 [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]()
+- **My Portfolio** https://steven-ssebuma-portfolio.web.app/
 
 ---
 
